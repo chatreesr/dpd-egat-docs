@@ -1,0 +1,30 @@
+site_name: DPD EGAT API Documentation
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+    
+  font:
+    text: Sarabun
+  palette:
+    primary: deep orange
+plugins:
+  - search:
+      lang:
+        - en
+        - th
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+
