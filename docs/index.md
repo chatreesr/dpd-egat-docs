@@ -13,6 +13,9 @@
 | [__Billing__](Billing/index.md)               | ข้อมูลบิลและหน่วยไฟฟ้า                       |
 | [__Load Profiles__](Load%20Profiles/index.md) | ประวัติการใช้งานไฟฟ้าราย 15 นาที             |
 
+## Swagger UI Documentation
+
+กทข. ฝวท. กำลังจัดทำ Swagger UI Documentation ให้กับนักพัฒนา หากแก้ปัญหา Network เรียบร้อยแล้วจะแจ้ง URL ให้ทราบต่อไป
 
 ## Timeline
 
