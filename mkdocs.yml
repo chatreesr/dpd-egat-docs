@@ -4,6 +4,7 @@ theme:
   language: en
   features:
     - navigation.tabs
+    - navigatin.tabs.sticky
     - navigation.top
     - content.code.copy
     
